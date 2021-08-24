@@ -1,8 +1,6 @@
 package app
 
 import Player
-import javafx.scene.paint.Stop
-import java.text.BreakIterator
 
 fun finals(firstUser: Int, secondUser: Int) {
 
